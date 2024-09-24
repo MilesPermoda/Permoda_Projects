@@ -1,0 +1,1 @@
+Program takes csv file input with data on chromosome location, gccontent, and at:gc ratio and performs statistical analysis and ouputs three charts in png format
