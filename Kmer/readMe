@@ -1,0 +1,1 @@
+given a text file with a pre recorded nucleotide sequence you can input a custom reading frame to get a custom kmer output, where k is the number of nucleotides read
