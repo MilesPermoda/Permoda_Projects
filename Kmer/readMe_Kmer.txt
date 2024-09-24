@@ -1,0 +1,1 @@
+given a text file with a pre recorded nucleotide sequence you can input a custom reading frame to get a report on the the different kmers that appear in the sequence as well as how oftern, where k is the number of nucleotides read
