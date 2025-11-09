@@ -1,1 +1,0 @@
-This is my attempt to make use of some of the concepts I've learned so far from the machine learning class I'm currently enrolled in. I used a dataset I found on Kaggle at https://www.kaggle.com/datasets/mzohaibzeeshan/thyroid-cancer-risk-dataset .
